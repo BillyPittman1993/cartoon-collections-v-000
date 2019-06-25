@@ -16,5 +16,7 @@ def long_planeteer_calls(calls)
 end
 
 def find_the_cheese(strings)
+  i = 0 
+  new_found_cheese = []
   strings.include? {|strings| 
 end
