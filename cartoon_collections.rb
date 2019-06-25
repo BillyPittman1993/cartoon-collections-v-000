@@ -18,7 +18,7 @@ end
 def find_the_cheese(strings)
   i = 0 
   cheese_types = ["cheddar", "gouda", "camembert"]
-  while i < strings.length 
+  while i < cheese_types.length 
   i += 1 
   
 end
