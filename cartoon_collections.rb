@@ -17,6 +17,8 @@ end
 
 def find_the_cheese(strings)
   i = 0 
-  new_found_cheese = []
-  strings.include? {|strings| 
+  cheese_types = ["cheddar", "gouda", "camembert"]
+  while i < strings.length 
+  i += 1 
+  
 end
